@@ -3,7 +3,6 @@
 IMPORTANT : The first step is to go to the **INSTALL** section, **and then you can install a THEME**
 
 ![preview](preview/preview.png)
-- In this screenshot I use this theme [https://addons.mozilla.org/en-US/firefox/addon/whitewindow](https://addons.mozilla.org/en-US/firefox/addon/whitewindow)  
 
 ## 💾 INSTALL
 
@@ -24,5 +23,6 @@ IMPORTANT : The first step is to go to the **INSTALL** section, **and then you c
 8. **Restart** Firefox to apply the changes
 
 ## 🎨 Other themes that fit well with classic tabs
-[https://addons.mozilla.org/en-US/firefox/addon/horizon3000](https://addons.mozilla.org/en-US/firefox/addon/horizon3000)  
+[https://addons.mozilla.org/en-US/firefox/addon/whitewindow](https://addons.mozilla.org/en-US/firefox/addon/whitewindow)
 [https://addons.mozilla.org/en-US/firefox/addon/microsoft-windows-xp1](https://addons.mozilla.org/en-US/firefox/addon/microsoft-windows-xp1)
+[https://addons.mozilla.org/en-US/firefox/addon/horizon3000](https://addons.mozilla.org/en-US/firefox/addon/horizon3000)
