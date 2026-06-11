@@ -1,7 +1,7 @@
-/* Full tabs, no radius for Firefox */
 .tab-background {
   border-radius: 0 !important;
   margin: 0!important;
+  outline: none;
 }
 #TabsToolbar {
   border-bottom: none!important;
@@ -36,4 +36,16 @@
 }
 #PersonalToolbar {
   padding-bottom: 5px!important;
+}
+#tabs-newtab-button, #vertical-tabs-newtab-button {
+  padding: 0;
+  margin: 0;
+}
+.toolbarbutton-icon {
+  height: 100%;
+  width: 45px;
+  border-radius: 0;
+}
+.titlebar-spacer {
+  width: 0px;
 }
